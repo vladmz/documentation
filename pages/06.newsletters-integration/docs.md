@@ -17,7 +17,7 @@ This feature only works if you are using **ACYMailing** extension on your site. 
 
 After that, when users sign up for this subscription plan, they will be assigned to the selected mailing lists and you can use ACYMailing to send newsletter to them in the future.
 
-## Mailchim Integration
+## Mailchimp Integration
 
 1. Go to Extensions -> Plugins Manager, find and publish the plugin **Membership Pro - Mailchimp plugin**
 2. Get the **API Key** of your Mailchimp account (you can see instructions at [http://kb.mailchimp.com/accounts/management/about-api-keys](http://kb.mailchimp.com/accounts/management/about-api-keys), **enter it into API key of the plugin parameter**.
